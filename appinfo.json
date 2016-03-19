@@ -1,0 +1,37 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "somberfox@gmail.com",
+    "enableMultiJS": true,
+    "longName": "simple",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/black.png",
+                "name": "hexa",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "characterRegex": "[0-9]",
+                "file": "fonts/tyepaloon.ttf",
+                "name": "zelda64",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "simple",
+    "targetPlatforms": [
+        "chalk"
+    ],
+    "uuid": "04c16367-8347-41b6-b8f8-afdde6403033",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
